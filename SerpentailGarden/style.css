@@ -1,0 +1,43 @@
+.tiny5-regular {
+  font-family: "Tiny5", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+
+.oswald-regular {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.oswald-light {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+#title {
+  background-color: black;
+  text-align: center;
+}
+.title {
+  color: #fff;
+  padding: 25px 0 10px 0;
+}
+.mypicture {
+  height: 100px;
+  margin: 25px;
+  border-radius: 50%;
+  border: 5px #000 solid;
+}
+.intouch {
+  text-align: center;
+  background-color: #de6161;
+  margin-top: 50px;
+  padding-top: 25px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 10px;
+}
